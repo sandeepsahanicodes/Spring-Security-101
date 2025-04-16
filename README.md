@@ -3,7 +3,7 @@ User registration and authentication with Spring Security and database integrati
 
 ## Learnings
 - How to configure a spring security project.
-- How to used `In Memory Authentication` to add and authenticate users.
+- How to use `In Memory Authentication` to add and authenticate users.
 - How create your custom `Security Configuration`.
 - How to connect with a database(Postgresql) and save user with hashed password.
-- How to authenticate user from data based and give access to endpoints.
+- How to authenticate user from database and give access to endpoints.
