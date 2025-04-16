@@ -1,0 +1,13 @@
+spring.application.name=spring-security
+
+# Your username and password for initial testing with spring security form.
+spring.security.user.name=USERNAME
+spring.security.user.password=PASSWORD
+
+# Prevent CSRF (Cross-Site Request Forgery) and other cross-site attacks by making sure your cookies aren’t leaked or used by other websites.
+server.servlet.session.cookie.same-site=strict
+
+# Database configurations.
+spring.datasource.url=jdbc:postgresql://<HOST>:<PORT>/<DATABASE_NAME>
+spring.datasource.username=<USERNAME>
+spring.datasource.password=<PASSWORD>
