@@ -7,3 +7,4 @@ User registration and authentication with Spring Security and database integrati
 - How create your custom `Security Configuration`.
 - How to connect with a database(Postgresql) and save user with hashed password.
 - How to authenticate user from database and give access to endpoints.
+- How to implement Jwt authentication.
